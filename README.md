@@ -32,7 +32,7 @@ I'm Utkarsh Gayguwal, a passionate fresher who just completed my Bachelor of Eng
 
 ### 📫 How to Reach Me
 <p align="center">
-  <a href="mailto:utkarshgayguwal@example.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" height="30" style="margin-right: 20px;" /></a>
+  <a href="mailto:utkarshgayguwal123@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" height="30" style="margin-right: 20px;" /></a>
   <a href="https://linkedin.com/in/utkarshgayguwal"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" height="30" /></a>
 </p>
 
