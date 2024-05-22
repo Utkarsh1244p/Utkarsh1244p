@@ -18,7 +18,6 @@ I'm Utkarsh Gayguwal, a passionate fresher who just completed my Bachelor of Eng
   <a href="#"><img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" height="30" style="margin-right: 10px;" /></a>
   <a href="#"><img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" height="30" style="margin-right: 10px;" /></a>
   <a href="#"><img src="https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white" alt="jQuery" height="30" style="margin-right: 10px;" /></a>
-  <a href="#"><img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP" height="30" style="margin-right: 10px;" /></a>
   <a href="#"><img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" height="30" style="margin-right: 10px;" /></a>
   <a href="#"><img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" height="30" style="margin-right: 10px;" /></a>
   <a href="#"><img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js" height="30" style="margin-right: 10px;" /></a>
@@ -39,7 +38,7 @@ I'm Utkarsh Gayguwal, a passionate fresher who just completed my Bachelor of Eng
 
 
 ### My Skills
-- **Programming Languages**: JavaScript, Python, Java, C, C++, R
+- **Programming Languages**: JavaScript, Python, Java, C, C++, R, PHP
 - **Frameworks**: React, Node.js, Express
 - **Tools**: Git, Replit, Jupyter Notebook, Sandbox
 - **Databases**: MySQL, PostgreSQL
