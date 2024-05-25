@@ -2,7 +2,7 @@
 
 ## Hi there 👋
 
-I'm Utkarsh Gayguwal, a passionate fresher who just completed my Bachelor of Engineering (BE) in Computer Science and Engineering (CSE). I'm eager to start my professional journey and contribute to innovative projects.
+I'm Utkarsh Gayguwal, a passionate fresher who just completed my Bachelor of Engineering (BE) in Computer Science and Engineering (CSE). I'm eager to start my professional journey and contribute to innovative projects. I always learning new skills.
 
 ### 💼 Current Status
 - **Education**: Bachelor of Engineering (BE) in Computer Science and Engineering (CSE)
