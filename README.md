@@ -10,7 +10,6 @@ I'm Utkarsh Gayguwal, a passionate fresher who just completed my Bachelor of Eng
 
 ### 🌱 Learning
 - Currently enrolled in **The Complete 2024 Web Development Bootcamp**.
-- Doing Project based on web development.
 
 ### 💬 Ask Me About
 
