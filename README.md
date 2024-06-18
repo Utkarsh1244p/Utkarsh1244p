@@ -46,7 +46,7 @@ I'm Utkarsh Gayguwal, a passionate fresher who just completed my Bachelor of Eng
 ### Hobbies & Interests
 - **Tech**: Contributing to open-source projects, exploring new technologies.
 - **Knowledge**: Reading Books.
-- **Sports**: Badminton, running.
+- **Sports**: Badminton
 
 Feel free to reach out if you want to collaborate on a project, discuss tech, or just say hi!
 
