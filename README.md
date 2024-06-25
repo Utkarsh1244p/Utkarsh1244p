@@ -9,7 +9,7 @@ I'm Utkarsh Gayguwal, a passionate fresher who just completed my Bachelor of Eng
 - **Looking for Opportunities**: Actively seeking roles in software development, web development, or any exciting tech projects.
 
 ### 🌱 Learning
-- Currently enrolled in **The Complete 2024 Web Development Bootcamp**.
+- Currently enrolled in **Google Python Automation**.
 
 ### 💬 Ask Me About
 
