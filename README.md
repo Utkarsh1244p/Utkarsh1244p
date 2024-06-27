@@ -41,7 +41,7 @@ I'm Utkarsh Gayguwal, a passionate fresher who just completed my Bachelor of Eng
 - **Programming Languages**: JavaScript, Python, Java, C, C++, R, PHP
 - **Frameworks**: React, Node.js, Express
 - **Tools**: Git, Replit, Jupyter Notebook, Sandbox
-- **Databases**: MySQL, PostgreSQL
+- **Databases**: MySQL, PostgreSQL, Oracle
 
 ### Hobbies & Interests
 - **Tech**: Contributing to open-source projects, exploring new technologies.
