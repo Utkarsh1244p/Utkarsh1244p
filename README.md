@@ -25,7 +25,7 @@ I'm Utkarsh Gayguwal, a passionate fresher who just completed my Bachelor of Eng
   <a href="#"><img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" height="30" style="margin-right: 10px;" /></a>
   <a href="#"><img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" height="30" style="margin-right: 10px;" /></a>
   <a href="#"><img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white" alt="Java" height="30" style="margin-right: 10px;" /></a>
-  <a href="#"><img src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white" alt="R" height="30" style="margin-right: 10px;" /></a>
+<!--   <a href="#"><img src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white" alt="R" height="30" style="margin-right: 10px;" /></a> -->
 </p>
 
 
